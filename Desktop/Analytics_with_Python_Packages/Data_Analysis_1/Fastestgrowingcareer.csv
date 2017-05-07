@@ -1,0 +1,47 @@
+SOC Code,Occupation Title,Star Rating,Employment Estimates 2012,Employment Estimates 2022,Annual Growth Rate,Annual Openings Growth,Annual Openings Replace-ments,Annual Openings Total,Hourly Wages Inexper-ienced,Hourly Wages Median,Education,Work Experience,Job Training
+Nov-33,"Education Administrators, Postsecondary",5,390,550,4.10%,20,10,30,$26.60 ,$45.70 ,Master's degree,5 years or more,None
+13-1081,Logisticians,5,580,830,4.30%,30,10,30,$23.10 ,$29.90 ,Bachelor's degree,None,None
+13-1121,"Meeting, Convention, and Event Planners",4,510,750,4.70%,20,10,30,$15.30 ,$19.60 ,Bachelor's degree,None,None
+13-1161,Market Research Analysts and Marketing Specialists,5,3030,4700,5.50%,170,40,210,$16.50 ,$26.80 ,Bachelor's degree,None,None
+13-2071,Credit Counselors,1,500,820,6.40%,30,10,40,$10.30 ,$11.50 ,Bachelor's degree,None,Moderate-term on-the-job training
+17-2031,Biomedical Engineers,5,340,580,7.10%,20,10,30,$32.30 ,$44.10 ,Bachelor's degree,None,None
+19-1021,Biochemists and Biophysicists,4,180,250,4.10%,10,10,10,$14.50 ,$18.70 ,Doctoral or professional degree,None,None
+19-3022,Survey Researchers,3,50,70,4.20%,0,0,0,$18.80 ,$25.70 ,Master's degree,None,None
+19-3092,Geographers,NR,60,120,10.90%,10,0,10,$14.90 ,$21.10 ,Bachelor's degree,None,None
+19-4021,Biological Technicians,4,350,500,4.40%,20,10,30,$13.60 ,$21.80 ,Bachelor's degree,None,None
+19-4031,Chemical Technicians,4,530,770,4.40%,20,10,40,$14.60 ,$19.40 ,Associate's degree,None,Moderate-term on-the-job training
+21-1011,Substance Abuse and Behavioral Disorder Counselors,4,180,260,4.20%,10,0,10,$18.50 ,$22.20 ,High school diploma or equivalent,None,Moderate-term on-the-job training
+25-1000,Postsecondary Teachers,,7700,11400,4.80%,370,120,490,,,,,
+25-1011,"Business Teachers, Postsecondary",5,320,460,4.20%,10,10,20,"$39,263.00 ","$56,726.00 ",Doctoral or professional degree,None,None
+25-1042,"Biological Science Teachers, Postsecondary",5,230,340,4.70%,10,0,20,"$54,683.00 ","$91,371.00 ",Doctoral or professional degree,None,None
+25-1052,"Chemistry Teachers, Postsecondary",4,100,140,4.10%,0,0,10,"$57,876.00 ","$100,041.00 ",Doctoral or professional degree,None,None
+25-1054,"Physics Teachers, Postsecondary",3,60,80,4.20%,0,0,0,"$54,178.00 ","$83,926.00 ",Doctoral or professional degree,None,None
+25-1065,"Political Science Teachers, Postsecondary",3,60,80,4.30%,0,0,0,"$42,300.00 ","$64,889.00 ",Doctoral or professional degree,None,None
+25-1071,"Health Specialties Teachers, Postsecondary",5,1760,2980,6.90%,120,30,150,"$57,314.00 ","$133,457.00 ",Doctoral or professional degree,Less than 5 years,None
+25-1072,"Nursing Instructors and Teachers, Postsecondary",5,280,470,6.80%,20,0,20,"$43,341.00 ","$68,760.00 ",Master's degree,Less than 5 years,None
+25-1112,"Law Teachers, Postsecondary",4,90,130,4.60%,0,0,10,"$58,848.00 ","$172,186.00 ",Doctoral or professional degree,None,None
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",4,400,580,4.40%,20,10,20,"$33,656.00 ","$50,961.00 ",Master's degree,None,None
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",4,180,250,4.20%,10,0,10,"$40,240.00 ","$55,286.00 ",Doctoral or professional degree,None,None
+25-1199,"Postsecondary Teachers, All Other",NR,750,1060,4.20%,30,10,40,"$41,599.00 ","$70,098.00 ",Doctoral or professional degree,None,None
+27-2011,Actors,1,170,240,4.30%,10,10,10,$8.60 ,$10.90 ,"Some college, no degree",None,Long-term on-the-job training
+27-3091,Interpreters and Translators,4,260,430,6.10%,20,0,20,$9.60 ,$16.70 ,Bachelor's degree,None,Short-term on-the-job training
+29-1071,Physician Assistants,5,610,900,4.70%,30,10,40,$21.90 ,$40.50 ,Master's degree,None,None
+29-1131,Veterinarians,4,190,270,4.20%,10,10,10,$31.70 ,$39.70 ,Doctoral or professional degree,None,None
+29-1171,Nurse Practitioners,5,980,1410,4.40%,40,20,60,$35.00 ,$43.60 ,Master's degree,None,None
+29-1181,Audiologists,4,100,150,4.60%,10,0,10,$22.50 ,$32.30 ,Doctoral or professional degree,None,None
+29-2012,Medical and Clinical Laboratory Technicians,3,1110,1580,4.30%,50,30,80,$11.30 ,$14.60 ,Associate's degree,None,None
+29-2031,Cardiovascular Technologists and Technicians,5,200,290,4.40%,10,0,10,$13.30 ,$24.70 ,Associate's degree,None,None
+29-2054,Respiratory Therapy Technicians,4,40,70,6.30%,0,0,0,$16.00 ,$18.50 ,Associate's degree,None,Moderate-term on-the-job training
+29-2056,Veterinary Technologists and Technicians,1,380,620,6.20%,20,0,30,$10.40 ,$12.00 ,Associate's degree,None,None
+29-2061,Licensed Practical and Licensed Vocational Nurses,4,930,1310,4.10%,40,20,60,$15.60 ,$21.40 ,Postsecondary non-degree award,None,None
+29-9091,Athletic Trainers,4,100,140,4.50%,0,0,10,"$25,880.00 ","$35,798.00 ",Bachelor's degree,None,None
+31-1000,"Nursing, Psychiatric, and Home Health Aides",,6580,9590,4.60%,300,130,430,,,,,
+31-1011,Home Health Aides,1,1630,2580,5.90%,100,30,130,$8.30 ,$10.30 ,Less than high school,None,Short-term on-the-job training
+31-1014,Nursing Assistants,1,4500,6380,4.20%,190,90,280,$10.00 ,$11.10 ,Postsecondary non-degree award,None,None
+31-2000,Occupational Therapy and Physical Therapist Assistants and Aides,,640,910,4.20%,30,10,40,,,,,
+31-2022,Physical Therapist Aides,1,380,550,4.60%,20,10,30,$8.20 ,$10.30 ,High school diploma or equivalent,None,Short-term on-the-job training
+31-9097,Phlebotomists,1,550,820,5%,30,10,40,$10.60 ,$12.80 ,Postsecondary non-degree award,None,None
+39-5094,Skincare Specialists,1,260,400,5.50%,10,0,20,$10.30 ,$16.50 ,Postsecondary non-degree award,None,None
+43-6013,Medical Secretaries,3,3540,5190,4.70%,170,40,210,$12.00 ,$14.00 ,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-2021,Brickmasons and Blockmasons,4,450,670,4.90%,20,10,30,$18.40 ,$21.80 ,High school diploma or equivalent,None,Apprenticeship
+49-9062,Medical Equipment Repairers,5,530,780,4.70%,30,20,40,$16.10 ,$27.80 ,Associate's degree,None,Moderate-term on-the-job training
